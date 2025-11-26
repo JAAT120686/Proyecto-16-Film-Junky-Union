@@ -38,12 +38,6 @@ Implementar modelos de procesamiento de lenguaje natural (NLP) para analizar res
 ### Ejemplo de resultado
 ![Gráfico de resultados del modelo](descarga.png)
 
-
-## ▶️ Cómo ejecutar
-1. Clona el repositorio
-2. Abre el notebook principal en Jupyter
-3. Sigue las instrucciones y explora los resultados
-
 ---
 
 ## 👤 Autor
