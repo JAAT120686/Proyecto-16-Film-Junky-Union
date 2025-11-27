@@ -42,4 +42,4 @@ Implementar modelos de procesamiento de lenguaje natural (NLP) para analizar res
 
 ## 🏁 Conclusión del Proyecto
 
-Este proyecto demuestra cómo el procesamiento de lenguaje natural y el aprendizaje automático pueden analizar y clasificar reseñas de películas de manera eficiente. Se implementaron modelos que alcanzan métricas superiores al objetivo propuesto (F1 ≥ 0.85), permitiendo identificar tendencias y sentimientos en valoraciones de usuarios. Los resultados muestran la utilidad de estas técnicas para transformar datos en información valiosa para la industria del cine.
+Este proyecto demuestra cómo el procesamiento de lenguaje natural y el aprendizaje automático pueden analizar y clasificar reseñas de películas de manera eficiente. Se implementaron modelos que permitieron identificar tendencias y sentimientos en valoraciones de usuarios. Los resultados muestran la utilidad de estas técnicas para transformar datos en información valiosa para la industria del cine.
